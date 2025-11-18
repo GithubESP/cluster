@@ -1,0 +1,12 @@
+{
+  "alt_pos": [1000, 500],
+  "cluster_pos": [1100, 500],
+  "prefix_indices": [],
+  "suffix_indices": [],
+  "require_k_mode": "all",
+  "k_value": 1,
+  "loop_delay": 0.2,
+  "offset": 3,
+  "click_delay": 0.25,
+  "copy_delay": 0.15
+}
